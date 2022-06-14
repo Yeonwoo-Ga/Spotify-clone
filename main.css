@@ -111,9 +111,55 @@
 
 #footer{
     display: flex;
+    padding:80px;
+    background-color: black;
+    
 }
 
 #footer_logo{
     width:42px;
     height:42px;
+    padding:15 0px;
+}
+
+#footer dl {
+    padding:10px;
+    width:195px;
+    height:356px;
+    
+}
+
+#footer a {
+    text-decoration: none;
+    color:white;
+    
+   
+}
+
+#footer dd{
+    color : #919496;
+    font-size : 12px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#footer dt{
+   padding:15px 0;
+}
+
+#footer_logo_span{
+    color:white;
+    margin-left:10px;
+}
+
+#sns{
+    color:white;
+}
+
+#footer_last{
+    color:white;
+}
+
+#copy{
+    color:white;
 }
